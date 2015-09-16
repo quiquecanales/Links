@@ -51,8 +51,6 @@ https://www.ubisoft.com/en-US/careers/grads-and-interns.aspx
 
 http://www.toptal.com/unity-unity3d/interview-questions
 
-http://www.toptal.com/unity-unity3d/interview-questions?utm_medium=sponsored_post&utm_campaign=unity3d_questions&utm_source=facebook.com
-
 http://jobsearch.about.com/cs/curriculumvitae/f/cvresume.htm
 
 http://www.gamesindustry.biz/articles/2014-04-30-your-game-portfolio-is-your-greatest-asset
