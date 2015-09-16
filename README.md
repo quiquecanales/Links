@@ -5,13 +5,25 @@ LIFE
 
 http://aaronbenitez.com/la-brecha-entre-nosotros/
 
+https://www.youtube.com/user/eddiephish/videos
+
 INDUSTRY
+
+http://www.pixelprospector.com/
 
 http://kotaku.com/why-game-developers-keep-getting-laid-off-1583192249
 
+http://kotaku.com/crunch-time-why-game-developers-work-such-insane-hours-1704744577?utm_campaign=Socialflow_Kotaku_Twitter&utm_source=Kotaku_Twitter&utm_medium=Socialflow
+
 http://www.polygon.com/2014/7/31/5949433/the-cost-of-a-game-studio
 
+http://thenextweb.com/insider/2015/05/29/why-i-left-my-home-and-my-family-for-a-startup-job-in-spain/
+
+http://2dwillneverdie.com/blog/how-much-do-sprites-cost/
+
 http://www.eurogamer.net/articles/digitalfoundry-2014-secret-developers-wii-u-the-inside-story
+
+http://kotaku.com/the-way-nintendo-used-to-make-mario-levels-1711701916?utm_campaign=Socialflow_Kotaku_Facebook&utm_source=Kotaku_Facebook&utm_medium=Socialflow
 
 http://realtimecollisiondetection.net/blog/?p=70
 
@@ -54,6 +66,12 @@ http://www.vidaextra.com/ps4/sony-lanza-el-playstation-first-para-llenar-las-uni
 
 http://www.vg247.com/2014/03/12/naughty-dogs-approach-to-development-explained-by-lead-programmer-video/
 
+http://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php
+
+http://gameprogrammingpatterns.com/
+
+http://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384#aesthetics
+
 http://www.pequenocerdocapitalista.com/como-financiar-tu-maestria/
 
 http://www.fiderh.org.mx/index.html
@@ -63,6 +81,12 @@ http://www.pequenocerdocapitalista.com/opciones-de-credito-educativo-para-tu-uni
 http://www.gameinstitute.com/
 
 http://www.slideshare.net/naughty_dog?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
+
+http://www.gamasutra.com/blogs/SamuelRantaeskola/20150623/246784/A_modern_asset_pipeline_How_much_time_is_spent_optimizing.php
+
+http://gamemechanicexplorer.com/
+
+http://the12principles.tumblr.com/
 
 http://aigamedev.com/
 
@@ -96,6 +120,8 @@ http://www.gamedev.net/page/resources/_/technical/game-programming/ten-things-to
 
 http://www.gamedev.net/page/resources/_/technical/multiplayer-and-network-programming/multilevel-multiplayer-with-unity-r3580
 
+http://www.toptal.com/opengl/introduction-to-opengl-a-quick-tutorial?utm_medium=sponsored_post&utm_campaign=opengl&utm_source=facebook.com
+
 http://simonschreibt.de/gat/renderhell/
 
 http://indiedevspot.azurewebsites.net/2014/04/25/build-a-2d-top-down-game-zero-to-published-part-1/
@@ -104,9 +130,15 @@ http://gamasutra.com/blogs/ThaleiaDeniozou/20140826/224186/Export_from_Unity_to_
 
 http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/the-total-beginners-guide-to-3d-graphics-theory-r3402
 
+https://www.youtube.com/watch?v=JwN4589gNrY&feature=youtu.be
+
 http://www.doorapps.com/2012/11/22/finite-state-machine-pattern-in-unity-simple-version/
 
 http://www.gamedev.net/page/resources/_/technical/game-programming/retro-game-programming-how-to-make-pong-r2997
+
+https://wiiu-developers.nintendo.com/#NWF_INFO
+
+https://www.youtube.com/playlist?list=PLGJDCzBP5j3x2JYfXFa_yv26IZ3Hv1_r4
 
 http://nehe.gamedev.net/tutorial/lessons_11__15/28001/
 
@@ -119,6 +151,8 @@ https://www.assetstore.unity3d.com/en/#!/content/3853
 http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/the-total-beginners-guide-to-3d-graphics-theory-r3402
 
 https://interplayoflight.wordpress.com/2013/12/30/readings-on-physically-based-rendering/
+
+http://graphics.cs.williams.edu/data/about.xml
 
 SIMULATION
 
@@ -146,11 +180,21 @@ http://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja146.htm
 
 http://animepromoter.com/como-puedo-registrar-un-comic/?utm_source=dlvr.it&utm_medium=facebook
 
-MUSIC
+AUDIO
 
 http://www.concerthotels.com/worlds-greatest-vocal-ranges
 
+http://promusicproducers.com/blog/
+
+http://www.doctormix.com/blog/how-to-mix-rock-vocals-9-top-tips?utm_medium=ad&utm_source=facebook&utm_campaign=mix-rock-vocals
+
+http://www.vintagevinylnews.com/2014/05/digging-deeper-axl-rose-is-not-singer.html
+
 http://www.concerthotels.com/100-years-of-rock/
+
+http://www.taringa.net/posts/info/4586191/Analisis-El-sonido-de-brian-may.html
+
+http://www.gamasutra.com/blogs/WillMorton/20150408/234948/Make_Some_Noise_Getting_a_Job_Creating_Sound_and_Music_for_Videogames.php
 
 PROGRAMMING
 
@@ -160,13 +204,25 @@ http://threejs.org/7
 
 http://www.w3schools.com/
 
+http://keyhole.co/
+
+https://platzi.com/blog/programar-android/
+
+https://www.codejobs.biz/es/blog/2013/10/30/creacion-y-recorrido-de-un-arbol-binario-en-c#sthash.777MCsNK.dpbs
+
 http://www.maclife.com/article/feature/10_useful_resources_every_ios_developer
 
 http://www.springwise.com/forget-coding-app-turns-sketches-working-computer-games/
 
+http://www.applesfera.com/tutoriales/vas-a-vender-tu-mac-o-dispositivo-ios-aqui-tienes-cuatro-pasos-previos-antes-de-hacerlo
+
+http://elbauldelprogramador.com/los-10-errores-de-novato-que-todo/
+
+http://www.xataka.com/makers/13-proyectos-asombrosos-con-arduino-para-ponerte-a-prueba-y-pasar-un-gran-rato
+
+https://wordpress.org/plugins/simple-code-highlighter/
+
 http://www.pictogramas.org/proom/init.do?method=questionsTab
-
-
 
 RETRO
 
@@ -175,6 +231,8 @@ http://applicantes.com/infografia-evolucion-juegos-para-moviles-mobile-games/?ut
 http://www.confused.com/news-views/infographics/video-game-driving-a-brief-history
 
 http://www.xataka.com/xataka/asi-fue-nuestro-viaje-a-los-80-tecnologicos
+
+http://blog.soom.la/wp-content/uploads/2015/01/UnityInfographic-800.png
 
 http://www.levelup.com/articulos/164428/Los-motores-de-juego-son-un-mal-necesario
 
