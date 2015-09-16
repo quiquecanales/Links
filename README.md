@@ -21,6 +21,8 @@ http://lsvp.com/2008/07/02/29-business-models-for-games/
 
 http://www.polygon.com/2014/7/31/5949433/the-cost-of-a-game-studio
 
+http://www.soyentrepreneur.com/29098-satoru-iwata-5-lecciones-del-ex-ceo-de-nintendo.html
+
 http://www.bbc.com/news/technology-33565738
 
 http://www.xataka.com/videojuegos/satoru-iwata-un-desarrollador-de-leyenda-que-guio-a-nintendo-a-su-epoca-mas-dorada
