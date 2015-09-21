@@ -274,6 +274,8 @@ RETRO
 
 http://applicantes.com/infografia-evolucion-juegos-para-moviles-mobile-games/?utm_source=twitterfeed&utm_medium=twitter&utm_campaign=Feed:+Applicantescom+(applicantes.com)
 
+http://orig06.deviantart.net/4947/f/2014/167/e/f/desarrollar_una_historia_by_deltagrama-d66qdca.jpg
+
 http://www.confused.com/news-views/infographics/video-game-driving-a-brief-history
 
 http://www.xataka.com/xataka/asi-fue-nuestro-viaje-a-los-80-tecnologicos
