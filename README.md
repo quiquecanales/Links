@@ -286,6 +286,8 @@ http://blog.soom.la/wp-content/uploads/2015/01/UnityInfographic-800.png
 
 http://www.levelup.com/articulos/164428/Los-motores-de-juego-son-un-mal-necesario
 
+http://www.levelup.com/articulos/283246/El-Edison-de-los-videojuegos
+
 http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.hobbyconsolas.com%2Freportajes%2Fson-posibles-hackeos-watch-dogs-53834&h=GAQGUlmZV&s=1
 
 http://www.vidaextra.com/videos/cuando-las-escenas-de-corte-sirven-para-algo-mas-7-sagas-y-2-juegos-convertidos-en-pelicula
