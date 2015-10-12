@@ -278,6 +278,10 @@ http://orig06.deviantart.net/4947/f/2014/167/e/f/desarrollar_una_historia_by_del
 
 http://www.confused.com/news-views/infographics/video-game-driving-a-brief-history
 
+http://metaspaceblog.com/2015/04/29/architecturevideogamesmaria-elisa-navarroassassins-creed-2-arquitectos-que-hacen-videojuegos/
+
+http://www.redbull.com/mx/es/games/stories/1331751744807/los-videojuegos-mexicanos-del-ps4
+
 http://www.xataka.com/xataka/asi-fue-nuestro-viaje-a-los-80-tecnologicos
 
 https://www.facebook.com/juliox.pochama/media_set?set=a.171121529686135.37673.100003648666046&type=3&__mref=message
