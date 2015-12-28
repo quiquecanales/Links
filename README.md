@@ -3,6 +3,8 @@ My personal library of links about videogames, development, animation, art, simu
 
 LIFE
 
+http://geeksroom.com/2015/10/9-ted-talks-que-usted-no-puede-aplazar-para-verlas-el-dia-de-manana/97651/
+
 http://aaronbenitez.com/la-brecha-entre-nosotros/
 
 https://www.youtube.com/user/eddiephish/videos
@@ -17,9 +19,15 @@ http://kotaku.com/why-game-developers-keep-getting-laid-off-1583192249
 
 http://kotaku.com/crunch-time-why-game-developers-work-such-insane-hours-1704744577?utm_campaign=Socialflow_Kotaku_Twitter&utm_source=Kotaku_Twitter&utm_medium=Socialflow
 
+http://www.redbull.com/mx/es/games/stories/1331751744807/los-videojuegos-mexicanos-del-ps4
+
 http://lsvp.com/2008/07/02/29-business-models-for-games/
 
+http://blog.es.playstation.com/2015/10/14/conoce-a-los-12-finalistas-de-la-ii-edicin-de-los-premios-playstation/
+
 http://www.polygon.com/2014/7/31/5949433/the-cost-of-a-game-studio
+
+http://www.mediotiempo.com/videojuegos2015/noticias/2015/09/22/fifa-16-con-esencia-mexicana
 
 http://www.soyentrepreneur.com/29098-satoru-iwata-5-lecciones-del-ex-ceo-de-nintendo.html
 
@@ -77,6 +85,8 @@ UNIVERSITY & LEARNING
 http://devmag.org.za/
 
 http://www.pixelprospector.com/the-big-list-of-game-design/
+
+http://metaspaceblog.com/2015/04/29/architecturevideogamesmaria-elisa-navarroassassins-creed-2-arquitectos-que-hacen-videojuegos/
 
 http://gamasutra.com/blogs/NathanLovato/20150814/251219/21_Free_Learning_Resources_for_Game_Developers.php
 
@@ -225,6 +235,8 @@ https://www.youtube.com/watch?v=DZ3DMDxdpfM
 http://www.taringa.net/posts/info/4586191/Analisis-El-sonido-de-brian-may.html
 
 http://www.gamasutra.com/blogs/WillMorton/20150408/234948/Make_Some_Noise_Getting_a_Job_Creating_Sound_and_Music_for_Videogames.php
+
+http://www.escribircanciones.com.ar/icomo-componer-musica/227-icomo-componer-canciones-la-progresion-i-v-vi-iv.html
 
 PROGRAMMING
 
