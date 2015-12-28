@@ -21,6 +21,10 @@ http://kotaku.com/crunch-time-why-game-developers-work-such-insane-hours-1704744
 
 http://www.redbull.com/mx/es/games/stories/1331751744807/los-videojuegos-mexicanos-del-ps4
 
+http://venturebeat.com/2015/11/01/meet-the-game-developers-of-mexico-a-growing-community/3/
+
+http://www.genbetadev.com/ironhack/estos-son-los-sectores-donde-las-startups-podrian-crecer-mas-a-futuro
+
 http://lsvp.com/2008/07/02/29-business-models-for-games/
 
 http://blog.es.playstation.com/2015/10/14/conoce-a-los-12-finalistas-de-la-ii-edicin-de-los-premios-playstation/
@@ -63,6 +67,8 @@ http://www.toptal.com/unity-unity3d/interview-questions
 
 http://jobsearch.about.com/cs/curriculumvitae/f/cvresume.htm
 
+http://gamecareercoach.com/start-here/
+
 http://www.gamesindustry.biz/articles/2014-04-30-your-game-portfolio-is-your-greatest-asset
 
 http://www.trabajofreelance.com/
@@ -88,6 +94,26 @@ http://www.pixelprospector.com/the-big-list-of-game-design/
 
 http://metaspaceblog.com/2015/04/29/architecturevideogamesmaria-elisa-navarroassassins-creed-2-arquitectos-que-hacen-videojuegos/
 
+https://www.coursera.org/learn/interfaz-ios
+
+http://thelightbulbgames.weebly.com/blog--news/how-to-develop-games-during-school-days
+
+https://www.tutellus.com/tecnologia/videojuegos/domina-fisica-para-unity-5-5195?affref=ee3a508b93f44374816085042fa3da6d
+
+https://www.coursera.org/learn/nube-ios
+
+https://www.coursera.org/learn/swift
+
+https://vimeo.com/2158706
+
+https://game-development.zeef.com/ellison.leao?ref=nicola.pepe1
+
+https://seraudiovisual.wordpress.com/2015/10/30/5-libros-sobre-animacion-en-pdf/
+
+http://www.appcoda.com/expandable-table-view/
+
+http://codigofacilito.com/courses/android
+
 http://gamasutra.com/blogs/NathanLovato/20150814/251219/21_Free_Learning_Resources_for_Game_Developers.php
 
 http://www.vidaextra.com/ps4/sony-lanza-el-playstation-first-para-llenar-las-universidades-con-kits-de-ps4
@@ -97,6 +123,10 @@ http://www.vg247.com/2014/03/12/naughty-dogs-approach-to-development-explained-b
 http://gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php
 
 http://gameprogrammingpatterns.com/
+
+http://www.zehngames.com/articulos/
+
+http://www.genbeta.com/herramientas/11-webs-y-canales-de-youtube-para-aprender-swift-desde-cero-hasta-nivel-experto
 
 http://gamedevelopment.tutsplus.com/articles/40-fantastic-game-development-tutorials-from-across-the-web--gamedev-3384#aesthetics
 
@@ -111,6 +141,8 @@ http://www.fiderh.org.mx/index.html
 http://www.pequenocerdocapitalista.com/opciones-de-credito-educativo-para-tu-universidad-o-maestria/
 
 http://www.gameinstitute.com/
+
+http://www.cacharrerosdelaweb.co/2015/11/cuatro-cursos-gratis-para-aprender-desarrollar-juegos-unity.html
 
 http://gamasutra.com/blogs/LeszekGodlewski/20150710/247996/quotYoure_on_UE4_why_do_you_need_an_engine_programmerquot.php
 
@@ -216,6 +248,8 @@ http://www.mipatente.com/videojuegos-y-derechos-de-autor/
 
 http://www.sii.cl/pagina/jurisprudencia/adminis/2001/ventas/ja146.htm
 
+https://www.safecreative.org/
+
 http://animepromoter.com/como-puedo-registrar-un-comic/?utm_source=dlvr.it&utm_medium=facebook
 
 AUDIO
@@ -270,11 +304,17 @@ http://www.maestrodelacomputacion.net/canales-en-youtube-para-aprender-programac
 
 http://stackoverflow.com/questions/6283568/online-radio-streaming-app-for-android
 
+http://www.genbeta.com/herramientas/estas-son-las-mejores-webs-y-canales-de-youtube-para-aprender-c-desde-cero-hasta-nivel-experto
+
 http://www.appypie.com/shoutcast-radio-app-builder
 
 http://elbauldelprogramador.com/los-10-errores-de-novato-que-todo/
 
 http://www.xataka.com/makers/13-proyectos-asombrosos-con-arduino-para-ponerte-a-prueba-y-pasar-un-gran-rato
+
+https://platzi.com/blog/tienda-online-prestashop/
+
+https://platzi.com/blog/tutorial-woocomerce/
 
 https://wordpress.org/plugins/simple-code-highlighter/
 
@@ -289,6 +329,10 @@ http://applicantes.com/infografia-evolucion-juegos-para-moviles-mobile-games/?ut
 http://orig06.deviantart.net/4947/f/2014/167/e/f/desarrollar_una_historia_by_deltagrama-d66qdca.jpg
 
 http://www.confused.com/news-views/infographics/video-game-driving-a-brief-history
+
+http://es.gizmodo.com/asi-se-programaron-los-virus-mas-destructivos-de-la-his-678700816
+
+http://www.xataka.com/mundogalaxy/aprende-a-escribir-codigo-desde-tu-celular-con-estas-aplicaciones?utm_source=genbetadev&utm_medium=homepage&utm_campaign=reposted_club
 
 http://metaspaceblog.com/2015/04/29/architecturevideogamesmaria-elisa-navarroassassins-creed-2-arquitectos-que-hacen-videojuegos/
 
